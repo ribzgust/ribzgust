@@ -1,4 +1,4 @@
-<h2> Boas vindas ao meu perfil 💙💙 </h2>
+<h2> Boas vindas ao meu perfil 💙💙 </h2> 
 <br>
 <p> Meu nome é Gustavo Ribeiro (ele / dele) <br> </p>
 <p>Estou estudando na Alura <br> </p>
@@ -8,5 +8,4 @@
 <hr>
 gustabeau@gmail.com
 
-@ribzgust
 ![](https://i.pinimg.com/originals/6a/28/ed/6a28ed17ad27a9b166f2800b29fc6aad.gif)
